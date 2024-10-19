@@ -1,0 +1,9 @@
+{
+    "baseUrls": {
+        "boardGames": "https://gamefound.com/fr/projects/search?source=HomepageProjectLists&category=board-games",
+        "upcoming": "https://gamefound.com/fr/projects/search?source=HomepageProjectLists&projectPhaseSearchTypes=Upcoming&ref=homepage-projectslistupcoming",
+        "pledgeOpen": "https://gamefound.com/fr/projects/search?source=HomepageProjectLists&projectPhaseSearchTypes=PledgeManagerOpen",
+        "crowdfunding": "https://gamefound.com/fr/projects/search?source=HomepageProjectLists&projectPhaseSearchTypes=Crowdfunding"
+    },
+    "categories": ["board-games", "upcoming", "pledgeOpen", "crowdfunding"]
+}
